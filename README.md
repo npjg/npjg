@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there!
+💾 I'm a _computer archaeologist_. I like preserving old software by reverse engineering their logic/file formats and documenting them in open-sourced code. I call this "archaeology" because there’s lots of interesting information from computer generations past, but it’s “buried” in proprietary formats. My role is to “dig up” this information and put it “on display” for this generation. Please join me in preserving quality software from bygone ages!
+
+"The horror of the Same Old Thing is one of the most valuable passions we have produced in the human heart." | C.S. Lewis, _The Screwtape Letters_
 
 <!--
 **npjg/npjg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
